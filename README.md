@@ -36,8 +36,8 @@ I am a passionate developer from Karachi, Pakistan, currently on a journey to ma
 
 ### 📬 Connect with Me
 - 📧 **Email:** awaisdeveloper763@gmail.com
-- 📺 **YouTube:** [@CodeByAwais-l6g7y](https://www.youtube.com/@CodeByAwais-l6g7y)
-- 💼 **LinkedIn:** [Add your LinkedIn Link Here]
+- ![SedihGIF](https://github.com/user-attachments/assets/b90345c3-fb20-4e62-b618-cb7c8a09b4fa)
+ **Instagram:** [Add your LinkedIn Link Here]
 
 ---
 *"The best way to predict the future is to create it."*

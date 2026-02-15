@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Awais Ali 👋 
 
-<!--
-**MuhammadAwais511/MuhammadAwais511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Full Stack Web Developer | Future AI Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate developer from Karachi, Pakistan, currently on a journey to master **Full Stack Web Development**. My goal is to build scalable web applications and eventually integrate **Artificial Intelligence** to create smarter user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+
+| Frontend | Backend & Database | Tools & Frameworks |
+| :--- | :--- | :--- |
+| 🌐 HTML5 & CSS3 | 🟢 Node.js | 🐙 Git & GitHub |
+| 🎨 Tailwind CSS | 🚂 Express.js | ▲ Vercel (Deployment) |
+| 📜 JavaScript (ES6+) | 🍃 MongoDB | ⚡ Vite |
+| ⚛️ React.js | | 🧪 Postman |
+
+---
+
+### 🏗️ Currently Working On
+- ⚡ **Learning:** Deep diving into **Next.js** for Server-Side Rendering (SSR).
+- 🛠️ **Building:** Improving my Full Stack projects using the MERN stack.
+- 🤖 **Future Goal:** Exploring AI Basics and Generative AI integration in web apps.
+
+---
+
+### 📊 GitHub Stats
+![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAwais511&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAwais511&layout=compact&theme=tokyonight)
+
+---
+
+### 📬 Connect with Me
+- 📧 **Email:** awaisdeveloper763@gmail.com
+- 📺 **YouTube:** [@CodeByAwais-l6g7y](https://www.youtube.com/@CodeByAwais-l6g7y)
+- 💼 **LinkedIn:** [Add your LinkedIn Link Here]
+
+---
+*"The best way to predict the future is to create it."*

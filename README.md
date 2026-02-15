@@ -24,18 +24,13 @@ I am a passionate developer from Karachi, Pakistan, currently on a journey to ma
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAwais511&show_icons=true&theme=tokyonight" alt="Awais GitHub Stats" width="400" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAwais511&layout=compact&theme=tokyonight" alt="Top Languages" width="300" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammadAwais511&show_icons=true&theme=tokyonight" alt="Awais Stats" width="400" />
+  <br><br>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammadAwais511&layout=compact&theme=tokyonight" alt="Top Languages" width="350" />
+</p>
 
 ---
 
